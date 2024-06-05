@@ -17,7 +17,3 @@ function generatePswd() {
     }
      pswdEl.textContent = genPswd
 }
-
-// const generatePswdOne = generatePswd()
-
-// pswdEl.textContent = generatePswdOne
